@@ -1,6 +1,6 @@
 ---
 title: Baillif
 url: /baillif/
-latitude: 16.0225079
-longitude: -61.7454024
+latitude: 16.012
+longitude: -61.74
 ---

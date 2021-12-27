@@ -1,6 +1,6 @@
 ---
 title: Le Moule
 url: /le-moule/
-latitude: 16.331670900000002
-longitude: -61.3476233
+latitude: 16.333
+longitude: -61.346
 ---
