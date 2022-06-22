@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/guadeloupe"
+baseURL = "https://fr.shoogle.net/guadeloupe/"
 languageCode = "fr"
 title = "Guadeloupe"
 theme = "ln-base"
