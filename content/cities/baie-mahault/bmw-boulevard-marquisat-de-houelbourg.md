@@ -1,5 +1,5 @@
 ---
 title: "BMW"
-url: /baie-mahault/bmw-2/
+url: /baie-mahault/bmw/
 shop: voiture
 ---
