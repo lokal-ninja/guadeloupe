@@ -1,5 +1,5 @@
 ---
 title: "BMW"
-url: /baie-mahault/bmw/
+url: /baie-mahault/bmw-boulevard-marquisat-de-houelbourg/
 shop: voiture
 ---
