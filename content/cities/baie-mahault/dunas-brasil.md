@@ -1,5 +1,5 @@
 ---
 title: "Dunas Brasil"
 url: /baie-mahault/dunas-brasil/
-shop: chaussures
+shop: Schuhe
 ---

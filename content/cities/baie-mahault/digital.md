@@ -1,5 +1,5 @@
 ---
 title: "Digital"
 url: /baie-mahault/digital/
-shop: électronique
+shop: Elektronik
 ---

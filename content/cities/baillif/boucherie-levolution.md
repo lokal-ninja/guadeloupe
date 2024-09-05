@@ -1,5 +1,5 @@
 ---
 title: "Boucherie L'Évolution"
 url: /baillif/boucherie-levolution/
-shop: boucherie
+shop: Metzgerei
 ---

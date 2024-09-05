@@ -1,5 +1,5 @@
 ---
 title: "Impec"
 url: /baie-mahault/impec/
-shop: alcool
+shop: Spirituosen
 ---

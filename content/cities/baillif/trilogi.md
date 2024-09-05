@@ -1,5 +1,5 @@
 ---
 title: "Trilogi"
 url: /baillif/trilogi/
-shop: ordinateur
+shop: Computer
 ---

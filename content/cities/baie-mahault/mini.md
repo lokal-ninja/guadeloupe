@@ -1,5 +1,5 @@
 ---
 title: "Mini"
 url: /baie-mahault/mini/
-shop: voiture
+shop: Autohaus
 ---

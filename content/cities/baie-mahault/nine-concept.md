@@ -1,5 +1,5 @@
 ---
 title: "Nine concept"
 url: /baie-mahault/nine-concept/
-shop: boutique
+shop: Modehaus
 ---
