@@ -1,5 +1,5 @@
 ---
 title: "PROLED"
 url: /baie-mahault/proled/
-shop: Elektrisch
+shop: électrique
 ---

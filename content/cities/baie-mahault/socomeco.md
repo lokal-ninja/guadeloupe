@@ -1,5 +1,5 @@
 ---
 title: "SOCOMECO"
 url: /baie-mahault/socomeco/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Désirade Food"
 url: /la-desirade/desirade-food/
-shop: Bäckerei
+shop: boulangerie
 ---

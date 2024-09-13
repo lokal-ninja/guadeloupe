@@ -1,5 +1,5 @@
 ---
 title: "l'as de l'elevage"
 url: /le-moule/las-de-lelevage/
-shop: Tiere
+shop: animal de compagnie
 ---

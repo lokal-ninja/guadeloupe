@@ -1,5 +1,5 @@
 ---
 title: "SEHKINHA MARKET"
 url: /moule/sehkinha-market/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

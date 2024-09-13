@@ -1,5 +1,5 @@
 ---
 title: "Amigos Toilettage"
 url: /baie-mahault/amigos-toilettage/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

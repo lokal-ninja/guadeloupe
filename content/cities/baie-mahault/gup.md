@@ -1,5 +1,5 @@
 ---
 title: "GUP"
 url: /baie-mahault/gup/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

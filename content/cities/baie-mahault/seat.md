@@ -1,5 +1,5 @@
 ---
 title: "Seat"
 url: /baie-mahault/seat/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SOPSAG"
 url: /baie-mahault/sopsag/
-shop: Baumarkt
+shop: à faire soi-même
 ---

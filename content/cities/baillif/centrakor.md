@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /baillif/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

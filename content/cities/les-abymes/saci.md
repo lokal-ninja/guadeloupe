@@ -1,5 +1,5 @@
 ---
 title: "SACI"
 url: /les-abymes/saci/
-shop: Autoteile
+shop: pièces de voitures
 ---

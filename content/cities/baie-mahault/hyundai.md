@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /baie-mahault/hyundai/
-shop: Autohaus
+shop: voiture
 ---

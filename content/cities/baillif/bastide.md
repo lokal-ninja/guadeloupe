@@ -1,5 +1,5 @@
 ---
 title: "Bastide"
 url: /baillif/bastide/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

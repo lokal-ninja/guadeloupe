@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /basse-terre/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

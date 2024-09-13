@@ -1,5 +1,5 @@
 ---
 title: "SICAPAG"
 url: /petit-bourg/sicapag/
-shop: Großhandel
+shop: vente en gros
 ---
