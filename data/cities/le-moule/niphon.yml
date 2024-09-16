@@ -1,11 +1,11 @@
 id: 130374720
-type: way
+type: node
 latitude: 16.29475
 longitude: -61.42263
 postcode: "97160"
 city: Le Moule
-street: "Route de Barthel"
-housenumber: 
+street: Route de Barthel
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:30-18:00 F 7:30-12:00"
+opening_hours: Mo-Sa 07:30-18:00 F 7:30-12:00
 website: ""

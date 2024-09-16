@@ -1,11 +1,11 @@
 id: 279003935
-type: way
+type: node
 latitude: 16.13272
 longitude: -61.58006
 postcode: "97128"
 city: Goyave
-street: "Lotissement Goyaveimmo"
-housenumber: 33
+street: Lotissement Goyaveimmo
+housenumber: "33"
 phone: "00590590924137"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-13:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-13:00
 website: ""

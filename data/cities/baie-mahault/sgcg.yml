@@ -1,11 +1,11 @@
 id: 131129704
-type: way
+type: node
 latitude: 16.2416
 longitude: -61.56572
 postcode: "97122"
 city: Baie-Mahault
-street: "Rue Henri Becquerel"
-housenumber: 1156
+street: Rue Henri Becquerel
+housenumber: "1156"
 phone: "+590590266209"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 124934291
-type: way
+type: node
 latitude: 16.22398
 longitude: -61.39185
 postcode: "97180"
 city: Sainte-Anne
-street: "section GALBAS"
-housenumber: 
+street: section GALBAS
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Su 10:00-18:00"
+opening_hours: Tu-Su 10:00-18:00
 website: ""

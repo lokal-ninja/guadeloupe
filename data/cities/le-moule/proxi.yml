@@ -1,11 +1,11 @@
 id: 130378997
-type: way
+type: node
 latitude: 16.30362
 longitude: -61.39931
 postcode: "97160"
 city: Le Moule
-street: "route de saint guillaume"
-housenumber: 
+street: route de saint guillaume
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

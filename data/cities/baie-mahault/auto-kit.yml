@@ -1,11 +1,11 @@
 id: 131130190
-type: way
+type: node
 latitude: 16.24326
 longitude: -61.56224
 postcode: "97122"
 city: Baie-Mahault
-street: "Boulevard Marquisat de Houëlbourg"
-housenumber: 6
+street: Boulevard Marquisat de Houëlbourg
+housenumber: "6"
 phone: "0590267501"
-opening_hours: "Mo-Fr 08:15-16:15; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:15-16:15; Sa 08:00-12:00
 website: ""

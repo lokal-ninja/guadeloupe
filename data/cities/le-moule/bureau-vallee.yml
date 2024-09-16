@@ -1,11 +1,11 @@
 id: 130369988
-type: way
+type: node
 latitude: 16.32941
 longitude: -61.34762
 postcode: ""
 city: Le Moule
-street: "Boulevard Levasseur"
-housenumber: 28
+street: Boulevard Levasseur
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "www.bureau-valle.fr"
+opening_hours: Mo-Fr 08:00-18:00
+website: www.bureau-valle.fr

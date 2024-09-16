@@ -1,11 +1,11 @@
 id: 131124937
-type: way
+type: node
 latitude: 16.24299
 longitude: -61.56285
 postcode: "97122"
 city: Baie-Mahault
-street: "Rue Henri Becquerel"
-housenumber: 10
-phone: "+590 590 26 70 01"
+street: Rue Henri Becquerel
+housenumber: "10"
+phone: +590 590 26 70 01
 opening_hours: ""
 website: ""

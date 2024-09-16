@@ -1,11 +1,11 @@
 id: 131123335
-type: way
+type: node
 latitude: 16.23959
 longitude: -61.58584
 postcode: ""
 city: Baie-Mahault
-street: "Rue Emmanuel Blandin"
-housenumber: 
+street: Rue Emmanuel Blandin
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-12:30"
-website: "https://www.gsa-vw.com/"
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-12:30
+website: https://www.gsa-vw.com/

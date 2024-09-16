@@ -1,11 +1,11 @@
 id: 623456059
-type: way
+type: node
 latitude: 16.01129
 longitude: -61.73849
 postcode: "97123"
 city: Baillif
-street: "Chemin de Coton"
-housenumber: 51
+street: Chemin de Coton
+housenumber: "51"
 phone: "+590590815195"
 opening_hours: ""
 website: ""

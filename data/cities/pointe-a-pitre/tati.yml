@@ -1,11 +1,11 @@
 id: 65842885
-type: way
+type: node
 latitude: 16.24026
 longitude: -61.53538
 postcode: "97139"
 city: Pointe-à-Pitre
-street: "Rue Frébault"
-housenumber: 115
+street: Rue Frébault
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""
