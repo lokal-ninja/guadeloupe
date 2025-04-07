@@ -1,6 +1,6 @@
 ---
 title: Capesterre-Belle-Eau
 url: /capesterre-belle-eau/
-latitude: 16.044
-longitude: -61.564
+latitude: 16.08
+longitude: -61.599
 ---
