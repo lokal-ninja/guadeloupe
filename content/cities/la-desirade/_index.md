@@ -1,6 +1,6 @@
 ---
 title: La Désirade
 url: /la-desirade/
-latitude: 16.303
-longitude: -61.073
+latitude: 16.304
+longitude: -61.074
 ---
