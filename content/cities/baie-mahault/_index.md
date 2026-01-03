@@ -1,6 +1,6 @@
 ---
 title: Baie-Mahault
 url: /baie-mahault/
-latitude: 16.243
-longitude: -61.56
+latitude: 16.245
+longitude: -61.559
 ---
