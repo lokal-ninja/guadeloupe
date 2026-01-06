@@ -1,6 +1,6 @@
 ---
 title: Port-Louis
 url: /port-louis/
-latitude: 16.418
-longitude: -61.531
+latitude: 16.419
+longitude: -61.534
 ---
